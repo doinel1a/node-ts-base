@@ -22,17 +22,17 @@
     "format": "prettier --write **/**/*.{js,mjs,cjs,ts,mts,cts} --cache"
   },
   "dependencies": {
-    "@t3-oss/env-core": "0.13.8",
+    "@t3-oss/env-core": "0.13.10",
     "dotenv": "17.2.3",
-    "zod": "4.1.13"
+    "zod": "4.2.0"
   },
   "devDependencies": {
     "@commitlint/cli": "20.2.0",
     "@commitlint/config-conventional": "20.2.0",
-    "@eslint/js": "9.39.1",
+    "@eslint/js": "9.39.2",
     "@ianvs/prettier-plugin-sort-imports": "4.7.0",
-    "@types/node": "24.10.1",
-    "eslint": "9.39.1",
+    "@types/node": "25.0.2",
+    "eslint": "9.39.2",
     "eslint-config-prettier": "10.1.8",
     "eslint-plugin-prettier": "5.5.4",
     "eslint-plugin-sonarjs": "3.0.5",
@@ -44,6 +44,6 @@
     "rimraf": "6.1.2",
     "tsx": "4.21.0",
     "typescript": "5.9.3",
-    "typescript-eslint": "8.48.1"
+    "typescript-eslint": "8.50.0"
   }
 }
